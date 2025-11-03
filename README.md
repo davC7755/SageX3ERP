@@ -68,7 +68,7 @@ Automated procurement from Purchase Request (PR) to Payment (PIN), reducing huma
 Integrated sales flow from Sales Order (SO) → Delivery Order (DO) → Sales Invoice (SIN) for real-time order tracking.
 
 <p align="center">
-<img src="images/o2c-dashboard.png" height="80%" width="80%" alt="O2C Dashboard"/>
+<img src="https://imgur.com/a/qwXxumi.png" height="80%" width="80%" alt="O2C Dashboard"/>
 <br />
 <i>Figure 2: Order-to-Cash Analysis Dashboard</i>
 </p>
