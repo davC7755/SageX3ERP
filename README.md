@@ -1,6 +1,6 @@
 <h1>Business Process Reengineering and ERP Implementation</h1>
 
-### [View Project Report (PDF)](docs/ERP_Report.pdf)
+### [View Project Report (DOCX)](https://github.com/davC7755/SageX3ERP/blob/main/ERP_Report.docx)
 
 <h2>Description</h2>
 
