@@ -1,11 +1,5 @@
 <h1>Business Process Reengineering and ERP Implementation</h1>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
-
-<h1>Spritzer ERP Implementation (Sage X3)</h1>
-
 ### [View Project Report (PDF)](docs/ERP_Report.pdf)
 
 <h2>Description</h2>
@@ -32,8 +26,6 @@ After the ERP deployment, all business processes were reengineered into a seamle
 
 <h2>Environments Used</h2>
 
-- <b>Windows 11</b>  
-- <b>Power BI Service</b>  
 - <b>Sage X3 Cloud Environment</b>
 
 <br />
