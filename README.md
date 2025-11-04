@@ -68,7 +68,7 @@ Automated procurement from Purchase Request (PR) to Payment (PIN), reducing huma
 Integrated sales flow from Sales Order (SO) → Delivery Order (DO) → Sales Invoice (SIN) for real-time order tracking.
 
 <p align="center">
-<img src="https://imgur.com/a/qwXxumi.png" height="80%" width="80%" alt="O2C Dashboard"/>
+<img src="https://i.imgur.com/VDkC1jF.png" height="80%" width="80%" alt="O2C Dashboard"/>
 <br />
 <i>Figure 2: Order-to-Cash Analysis Dashboard</i>
 </p>
@@ -80,23 +80,39 @@ Integrated sales flow from Sales Order (SO) → Delivery Order (DO) → Sales In
 Centralized warehouse tracking for raw materials and finished goods, minimizing overstock and improving cost control.
 
 <p align="center">
-<img src="images/inventory-dashboard.png" height="80%" width="80%" alt="Inventory Dashboard"/>
+<img src="https://i.imgur.com/H8Bylkv.png" height="40%" width="40%" alt="Product Quantity Overview"/>
 <br />
-<i>Figure 3: Inventory Overview Dashboard</i>
+ <img src="https://i.imgur.com/k0XPRZV.png" height="80%" width="80%" alt="Stock Movement by Misc. Issue"/>
+<br />
+<i>Figure 3-4: Inventory Overview Diagrams</i>
 </p>
 
 ---
 
-<h3>🔹 Financial Reporting</h3>
+<h3>🔹 Customer Analysis</h3>
 
-Automated financial statements (Income Statement, Balance Sheet) synced with real-time data from Sage X3.
+Customer Analysis with real-time data from Sage X3.
 
 <p align="center">
-<img src="images/income-statement.png" height="80%" width="80%" alt="Income Statement"/>
+<img src="https://i.imgur.com/xuGHFHK.png" height="80%" width="80%" alt="Customer Overview Dashboard"/>
 <br />
-<img src="images/balance-sheet.png" height="80%" width="80%" alt="Balance Sheet"/>
+<img src="https://i.imgur.com/tffjnwa.png" height="80%" width="80%" alt="Product Analysis by Sales"/>
 <br />
-<i>Figure 4–5: Financial Performance Reports</i>
+<i>Figure 5–6: Customer Analysis Reports</i>
+</p>
+
+---
+
+<h3>🔹 Supplier Analysis</h3>
+
+Supplier Analysis (Business Partners, purchases) with real-time data from Sage X3.
+
+<p align="center">
+<img src="https://i.imgur.com/81mAe1N.png" height="80%" width="80%" alt="Business Partners Overview Dashboard"/>
+<br />
+<img src="https://i.imgur.com/xowCnTh.png" height="80%" width="80%" alt="Product Analysis by Purchases"/>
+<br />
+<i>Figure 7–8: Supplier Analysis Reports</i>
 </p>
 
 ---
@@ -106,9 +122,9 @@ Automated financial statements (Income Statement, Balance Sheet) synced with rea
 Customer, Supplier, and Other Payable aging analyses to monitor payment cycles and financial health.
 
 <p align="center">
-<img src="images/aging-report.png" height="80%" width="80%" alt="Aging Report"/>
+<img src="https://i.imgur.com/3O01SaI.png" height="80%" width="80%" alt="Aging Report"/>
 <br />
-<i>Figure 6: Power BI Aging Report Dashboard</i>
+<i>Figure 9: Power BI Aging Report Dashboard</i>
 </p>
 
 <br />
@@ -150,10 +166,6 @@ Customer, Supplier, and Other Payable aging analyses to monitor payment cycles a
 - Expand data automation into HR and logistics modules  
 
 <br />
-
-<h2>Repository Structure</h2>
-
-
 
 <!--
  ```diff
