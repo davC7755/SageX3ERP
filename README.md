@@ -56,7 +56,7 @@ Automated procurement from Purchase Request (PR) to Payment (PIN), reducing huma
 
 <p align="center">
 <i>Figure 1: Power BI P2P Dashboard</i> <br/>
-<img src="https://imgur.com/a/yByWxzK.png" height="80%" width="80%" alt="Power BI P2P Dashboard"/>
+<img src="https://i.imgur.com/VgliQAD.png" height="80%" width="80%" alt="Power BI P2P Dashboard"/>
 <br />
 
 
